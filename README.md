@@ -2,7 +2,7 @@
 
 # 📊 Overview
 
-In fast-moving businesses, data rarely sits still — systems change, databases migrate, and reporting needs evolve.
+In fast-moving businesses, data rarely sits still, in actual systems change, databases migrate, and reporting needs evolve.
 This project was built to handle exactly that: moving from a **SQL Server test environment** to a **MySQL production environment** while ensuring **data integrity, reliability, and speed**.
 
 ---
@@ -47,5 +47,5 @@ Together, these dashboards gave stakeholders both the **operational view** (stoc
 ---
 
 ## 💡 Impact
-This wasn’t just a data viz exercise — it was about **making reporting resilient to system changes** and ensuring leaders always had a **single source of truth**.
+This wasn’t just a data viz exercise, it was about **making reporting resilient to system changes** and ensuring leaders always had a **single source of truth**.
 By bridging test and production environments seamlessly, the dashboard became a **live control tower for inventory and financial decisions**. 
